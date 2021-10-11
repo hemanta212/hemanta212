@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**hemanta212/hemanta212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Hemanta Sharma
 
-Here are some ideas to get you started:
+I am a student and computer enthusiast and have a keen interest in learning technologies and software development. I am actively working upon web development, devops using python as primary language. My interests are in python, javascript and related web tools, linux, and interesting programming stuffs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work at [Tutero](https://tutero.com.au) as a python developer.
+
+ <p>
+  <a href="https://www.linkedin.com/in/hemanta-sharma-636290137/">
+    <img src="https://img.shields.io/badge/Hemanta-Sharma-blue?logo=linkedin&style=flat">
+    </a> 
+</p>
+
+<br/>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanta212&layout=compact&langs_count=8" alt="Top Langs">
+  &nbsp; 
+    <img src="https://github-readme-stats.vercel.app/api?username=hemanta212&show_icons=true&count_private=true&custom_title=My%27s%20GitHub%20Stat&include_all_commits=true" alt="GitHub Stat">
+</p>
+
