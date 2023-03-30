@@ -13,10 +13,3 @@ I currently work at [Tutero](https://tutero.com.au) as a python developer.
 </p>
 
 <br/>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanta212&layout=compact&langs_count=8" alt="Top Langs">
-  &nbsp; 
-    <img src="https://github-readme-stats.vercel.app/api?username=hemanta212&show_icons=true&count_private=true&custom_title=My%27s%20GitHub%20Stat&include_all_commits=true" alt="GitHub Stat">
-</p>
-
