@@ -2,9 +2,9 @@
 
 ## I'm Hemanta Sharma
 
-I am a student and computer enthusiast and have a keen interest in learning technologies and software development. I am actively working upon web development, devops using python as primary language. My interests are in python, javascript and related web tools, linux, and interesting programming stuffs.
+I am a student and computer enthusiast learning software development. I love working on Web development, App development, and Infrastructure(+LinuxOps). My toolset is Python, Go, Dart/Flutter, and Js. I also love hacking with Shell scripting, C, Emacs-lisp, and Racket.
 
-I currently work at [Tutero](https://tutero.com.au) as a python developer.
+I work at [Tutero](https://tutero.com.au) as a Full-Stack Junior Software Engineer.
 
  <p>
   <a href="https://www.linkedin.com/in/hemanta-sharma-636290137/">
