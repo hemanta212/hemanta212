@@ -2,7 +2,7 @@
 
 ## I'm Hemanta Sharma
 
-I am a student learning software development. I love working on Web development, App development, and Infrastructure(+LinuxOps). My toolset is Python, Go, Dart/Flutter, and Js. I also love hacking with Shell scripting, C, Emacs-lisp, and Racket.
+I am a student learning software development. I love working on projects involving web, app, and infrastructure development. My toolset includes Python, Go, Dart/Flutter, and JS. I also love hacking with Shell scripting, C, Emacs-lisp, and Racket in my free time.
 
 I work at [Tutero](https://tutero.com) as a Full-Stack SDE I.
 
